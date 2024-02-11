@@ -8,5 +8,6 @@
 <body>
     <h1>Página de Serviços</h1>
     <p>Sobre os serviços da empresa...</p>
+    <img src="" alt="Imagem 1 dos serviços">
 </body>
 </html>
