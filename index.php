@@ -6,7 +6,7 @@
     <title>Site com git</title>
 </head>
 <body>
-    <?= "<h1>Hello World</h1>" ?>
+    <?= "<h1>Hello World, new change on the project</h1>" ?>
     <?php 
     $var = 5;
     echo "<p>The number is $var</p>";
